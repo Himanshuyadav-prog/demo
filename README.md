@@ -1,3 +1,1 @@
-# demo
-this is my first try
-second try by himanshu yadav
+# this my first demo on gitub
